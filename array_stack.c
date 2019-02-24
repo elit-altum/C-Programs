@@ -71,3 +71,6 @@ main(){
     }
 
 }
+
+//Written in ANSI for the GNU-GCC complier
+//Elit Altum
