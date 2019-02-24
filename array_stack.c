@@ -72,5 +72,5 @@ main(){
 
 }
 
-//Written in ANSI for the GNU-GCC complier
+//Written in ANSI for the GNU-GCC compiler
 //Elit Altum
