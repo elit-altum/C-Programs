@@ -58,7 +58,7 @@ void main(){
 
       while(1){
             system("cls");  //Clears the screen before each run of menu
-            printf("\nCircular Linked List Operations\n");
+            printf("\nDouble(y) Linked List Operations\n");
             printf("01. Insertion in linked list\n");
             printf("02. Deletion from linked list\n");
             printf("03. Display the linked list\n");
