@@ -1,4 +1,4 @@
-//To implement linear search and selection sort in a singly linked list
+//To implement selection sort in single linked lists and merge them by comparing the nodes
 //12.03.19
 
 #include <stdio.h>
