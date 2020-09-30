@@ -16,10 +16,7 @@ main(){
     while (true) {
         printf("\n ************** \n");
         printf("Stack Operations Using Array \n \n");
-        printf("1. Push \n");
-        printf("2. Pop \n");
-        printf("3. Display \n");
-        printf("4. Exit \n");
+        printf("1. Push \n2. Pop\n3. Display\n4. Exit\n");
 
         scanf("%d", &answer);
         switch (answer){
